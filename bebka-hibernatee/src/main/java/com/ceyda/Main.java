@@ -51,6 +51,9 @@ public class Main {
 
             //
 
+        UserDao userDao=new UserDao();
+        Usersss newUsersss = new Usersss("Elif","elif@gmail.com");
+        userDao.createUser(newUsersss);
 
 
 
