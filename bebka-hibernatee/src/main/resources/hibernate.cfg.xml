@@ -22,6 +22,6 @@
         <property name="hibernate.hbm2ddl.auto">update</property>
 
         <!-- Entities -->
-        <mapping class="com.ceyda.model.Student"/>
+        <mapping class="com.ceyda.model.Usersss"/>
     </session-factory>
 </hibernate-configuration>
